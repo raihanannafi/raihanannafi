@@ -6,10 +6,10 @@
  <p>
 Raihan has over 4 years of experience in delivery software quality assurance with a demonstrated history of working in the multiple industry like banking infrastructure, financial technology, insurance, tax, and logistic.
 <br>
-<br>💫 I’m a Test Engineer
+
 <br>
-<br>👩‍💻 Constantly learning. I'm very interested in Automation and Testing!
- <br> <p align="center"><i>✨Usually I have a lucky touch, whenever I test a feature, I found defect✨</i></p>
+
+ <br> <p align="center"><i>✨I have a lucky touch, whenever I test a feature, I found defect✨</i></p>
  </p>
 
 <!-- Socials --> 
