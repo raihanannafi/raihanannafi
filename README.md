@@ -31,7 +31,7 @@ Raihan has over 4 years of experience in delivery software quality assurance wit
 <h3 align="Center">Languages and Tools:</h3>  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  style="height: 4rem"/>
 <br><br>
 <img src="https://user-images.githubusercontent.com/48504245/183323468-a4f2bb97-1ee9-4ef9-85cb-6475f35bd27e.png" style="height: 4rem"/>
