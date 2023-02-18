@@ -4,12 +4,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Raihan.</h1>
 <h3 align="center">About Me :</h3>  
  <p>
-Raihan has over 4 years of experience in delivery software quality assurance with a demonstrated history of working in the multiple industry like banking infrastructure, financial technology, insurance, tax, and logistic.
+Raihan has over 5 years of experience in delivery software quality assurance with a demonstrated history of working in the multiple industry like banking infrastructure, financial technology, insurance, tax, and logistic.
 <br>
 
 <br>
 
- <br> <p align="center"><i>✨I have a lucky touch, whenever I test a feature, I found defect✨</i></p>
+ <br> <p align="center"><i>✨Driving Advancement in Software Development and Testing✨</i></p>
  </p>
 
 <!-- Socials --> 
